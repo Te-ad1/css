@@ -548,7 +548,7 @@ ul{
 
 
 
-@media(max-width: 800px) {
+@media(max-width: 1200px) {
    html{
     scroll-behavior: smooth;
    }
@@ -958,7 +958,7 @@ ul{
 
 .image-album {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
    
     
     gap: 8%; /* Optional: Add some spacing between images */
